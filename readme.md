@@ -1,6 +1,7 @@
 
 <h1 align="center">Weather forecast  </h1>
  A project showing whether it will rain in a given location in the next [given] hours. If rain is predicted, then a corresponding message will be sent to the specified mail and mobile phone indicating the date when it will rain 
+ 
 ### Used tools:
 * OpenWeather: https://openweathermap.org/
 >API documentation :https://openweathermap.org/api/one-call-3
